@@ -71,6 +71,7 @@ DELETE
 /hoteis/<hotel_id>
 ▶️ Como Executar o Projeto
 Clone o repositório:
+https://github.com/ClaudineiMacedo/Projeto-API-de-Hot-is/tree/main
 
 Instale as dependência
 
